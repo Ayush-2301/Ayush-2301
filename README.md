@@ -1,1 +1,4 @@
-[![Ayush-2301's GitHub | Topics Over Time](https://stats.quine.sh/Ayush-2301/topics-over-time?theme=dark)](https://quine.sh)
+👋 Hi, I’m @Ayush-2301
+👀 I’m interested in web development
+🌱 I’m currently learning Blockchain
+📫 e-mail: ayushchauhan233@gmail.com
